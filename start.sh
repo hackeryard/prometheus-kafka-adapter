@@ -1,0 +1,10 @@
+#!/bin/bash
+
+export KAFKA_BROKER_LIST=
+export KAFKA_TOPIC=
+export KAFKA_COMPRESSION=
+export KAFKA_BATCH_NUM_MESSAGES
+export SERIALIZATION_FORMAT=
+export PORT=
+export LOG_LEVEL=
+export GIN_MODE=
